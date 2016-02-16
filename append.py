@@ -4,6 +4,9 @@ def append_abc(s):
   
 def append_bcd(s):
   return 'bcd_' + s;
+  
+def append_efg(s):
+  return 'bcd_' + s;
 
 
 if __name__ == '__main__':
