@@ -6,7 +6,7 @@ def append_bcd(s):
   return 'bcd_' + s;
   
 def append_efg(s):
-  return 'bcd_' + s;
+  return 'efg_' + s;
 
 
 if __name__ == '__main__':
