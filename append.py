@@ -7,6 +7,9 @@ def append_bcd(s):
   
 def append_efg(s):
   return 'efg_' + s
+  
+def append_stinker(s):
+  return 'stinker_' + s  
 
 
 if __name__ == '__main__':
