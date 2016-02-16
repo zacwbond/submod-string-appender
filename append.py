@@ -1,7 +1,5 @@
 
 
-exit(1)
-
 
 def append_abc(s):
   return 'abc_' + s
@@ -13,7 +11,7 @@ def append_efg(s):
   return 'efg_' + s
   
 def append_stinker(s):
-  return 'stinker_' + s  
+  return 'eww_' + s  
 
 
 if __name__ == '__main__':
