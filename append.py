@@ -1,5 +1,6 @@
 
-
+print("BROKEN")
+exit(1)
 
 def append_abc(s):
   return 'abc_' + s
