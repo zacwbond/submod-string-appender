@@ -1,6 +1,5 @@
 
-print("BROKEN")
-exit(1)
+print("NOT BROKEN")
 
 def append_abc(s):
   return 'abc_' + s
