@@ -1,12 +1,12 @@
 
 def append_abc(s):
-  return 'abc_' + s;
+  return 'abc_' + s
   
 def append_bcd(s):
-  return 'bcd_' + s;
+  return 'bcd_' + s
   
 def append_efg(s):
-  return 'efg_' + s;
+  return 'efg_' + s
 
 
 if __name__ == '__main__':
