@@ -1,5 +1,5 @@
 
-print("HAHA I BROKE IT ALL")
+
 exit(1)
 
 
