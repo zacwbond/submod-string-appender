@@ -1,4 +1,8 @@
 
+print("HAHA I BROKE IT ALL")
+exit(1)
+
+
 def append_abc(s):
   return 'abc_' + s
   
