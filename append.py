@@ -9,7 +9,7 @@ def append_efg(s):
   return 'efg_' + s
   
 def append_stinker(s):
-  return 'stinker_' + s  
+  return 'ewww_' + s  
 
 
 if __name__ == '__main__':
